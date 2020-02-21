@@ -1,0 +1,6 @@
+{
+    "name": "octokit-esm-problem",
+    "dependencies": {
+        "@octokit/rest": "^17.0.0"
+    }
+}
