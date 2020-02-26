@@ -1,3 +1,5 @@
-import { Octokit } from "@octokit/rest";
+import Octokit from "@octokit/rest";
 
-console.log(Octokit);
+const oc = new Octokit.Octokit();
+
+console.log(oc);
